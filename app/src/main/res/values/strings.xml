@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">M-Learning</string>
+
+    <string name="title_activity_navigation1">Navigation1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_logout">Log Out</string>
+    <string name="title_activity_maps_google">Map</string>
+
+
+</resources>
